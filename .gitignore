@@ -20,7 +20,7 @@ venv/
 *.json
 
 # Exclure l'ancien projet
-archive/
+archives/
 
 # OS
 Thumbs.db
