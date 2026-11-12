@@ -20,7 +20,7 @@ venv/
 *.json
 
 # Exclure l'ancien projet
-main.old.py
+archive/
 
 # OS
 Thumbs.db
