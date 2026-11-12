@@ -6,10 +6,6 @@
 ![PyQtGraph](https://img.shields.io/badge/PyQtGraph-Latest-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Interface principale
-
-![Fenêtre principale](screens/Capture%20d'écran%202026-11-12%20214023.png)
-
 ## Description
 
 MFIS-Analyzer est une application d'analyse audio développée en Python permettant de mesurer et visualiser la réponse fréquentielle d'un système audio à partir de différents signaux de test.
@@ -71,7 +67,9 @@ L'objectif est de fournir une base extensible pour les mesures acoustiques, les 
 
 # Captures d'écran
 
-*(Ajouter ici des captures d'écran de l'application.)*
+## Interface principale
+
+![Fenêtre principale](screens/Capture%20d'écran%202026-11-12%20214023.png)
 
 ---
 
