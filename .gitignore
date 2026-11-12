@@ -19,6 +19,9 @@ venv/
 *.csv
 *.json
 
+# Exclure l'ancien projet
+main.old.py
+
 # OS
 Thumbs.db
 .DS_Store
