@@ -8,7 +8,7 @@
 
 ## Interface principale
 
-![Fenêtre principale]("Capture%20d'écran%202026-11-12%20214023.png")
+![Fenêtre principale](screens/Capture%20d'écran%202026-11-12%20214023.png)
 
 ## Description
 
