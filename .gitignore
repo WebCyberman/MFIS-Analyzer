@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Audio
+*.wav
+*.flac
+*.mp3
+
+# Exports de données
+*.csv
+*.json
+
+# OS
+Thumbs.db
+.DS_Store
